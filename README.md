@@ -3,7 +3,6 @@
 ## About Me:
 - 📚 **Academic Roots:** Deeply grounded in mathematics and statistics, with a passion for building intelligent systems.
 - 🤖 **Driven By:** AI research, machine learning, and the challenge of turning data into impactful decisions.
-- 📝 **Creative Edge:** National-level **poem recitation** awardee because storytelling matters, whether in words or data.
   
 ## 💡 What I'm Up To:
 - 🔍 Researching complex root-finding algorithms and their applications in AI.
